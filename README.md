@@ -1,1 +1,3 @@
-# information_system
+# Information_system
+
+[!](result.gif)
